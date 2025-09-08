@@ -1,0 +1,364 @@
+{
+    "warszawa": {
+        "Warszawa, Zelazna, 51/53": [
+            "3.605",
+            "3.63",
+            "4.24",
+            "4.26"
+        ],
+        "Warszawa, Al. Jerozolimskie, 42": [
+            "3.581",
+            "3.646",
+            "4.212",
+            "4.272"
+        ],
+        "Warszawa, Krolewska, 2": [
+            "3.626",
+            "3.636",
+            "4.248",
+            "4.263"
+        ],
+        "Warszawa, Sienna, 43": [
+            "3.6",
+            "3.67",
+            "4.22",
+            "4.27"
+        ],
+        "Warszawa, Przejscie podz. Al.Jerozolimskie / Marszalkowska, lok. 33 i 34a": [
+            "3.595",
+            "3.655",
+            "4.23",
+            "4.28"
+        ],
+        "Warszawa, Marszalkowska, 99A": [
+            "3.595",
+            "3.655",
+            "4.23",
+            "4.28"
+        ],
+        "Warszawa, Leszno, 34/36": [
+            "3.6028",
+            "3.6928",
+            "4.2085",
+            "4.2785"
+        ],
+        "Warszawa, Grochowska, 204, paw. 2": [
+            "3.62",
+            "3.64",
+            "4.25",
+            "4.26"
+        ],
+        "Warszawa, Klonowa, 22": [
+            "3.605",
+            "3.645",
+            "4.235",
+            "4.26"
+        ],
+        "Warszawa, Komisji Edukacji Narodowej, 36 lok.U30": [
+            "3.56",
+            "3.68",
+            "4.19",
+            "4.31"
+        ],
+        "Warszawa, aleje Jerozolimskie, 60B": [
+            "3.62",
+            "3.645",
+            "4.245",
+            "4.265"
+        ],
+        "Warszawa, Bohaterow Warszawy, 34": [
+            "3.57",
+            "3.68",
+            "4.19",
+            "4.3"
+        ],
+        "Warszawa, Wladyslawa Skoczylasa, 9a": [
+            "3.6",
+            "3.64",
+            "4.24",
+            "4.27"
+        ],
+        "Warszawa, Dluga, 8/14": [
+            "3.61",
+            "3.65",
+            "4.23",
+            "4.26"
+        ],
+        "Warszawa, Kredytowa, 8": [
+            "3.62",
+            "3.64",
+            "4.245",
+            "4.26"
+        ],
+        "Warszawa, Kobielska, 23": [
+            "3.625",
+            "3.655",
+            "4.245",
+            "4.275"
+        ],
+        "Warszawa, Juliusza Slowackiego, 45": [
+            "3.62",
+            "3.655",
+            "4.245",
+            "4.265"
+        ],
+        "Warszawa, Przy Agorze, 2": [
+            "3.63",
+            "3.66",
+            "4.245",
+            "4.265"
+        ],
+        "Warszawa, Wandy, 16/5": [
+            "3.6",
+            "3.65",
+            "4.22",
+            "4.27"
+        ],
+        "Warszawa - Babice Nowe, Ogrodnicza, 2d": [
+            "3.59",
+            "3.7",
+            "4.2",
+            "4.31"
+        ],
+        "Warszawa, Wiejska, 11/1": [
+            "3.60673",
+            "3.6475",
+            "4.2334",
+            "4.26957"
+        ],
+        "Warszawa, Jana Pawla II, 46/48": [
+            "3.625",
+            "3.645",
+            "4.245",
+            "4.265"
+        ],
+        "Warszawa, Pulawska, 49": [
+            "3.56",
+            "3.68",
+            "4.2",
+            "4.32"
+        ],
+        "Warszawa, Grojecka, 42": [
+            "3.6",
+            "3.645",
+            "4.235",
+            "4.265"
+        ],
+        "Warszawa, plac Grzybowski, 10": [
+            "3.62",
+            "3.645",
+            "4.24",
+            "4.265"
+        ],
+        "Warszawa, ul. Paslecka, 8D": [
+            "3.58",
+            "3.68",
+            "4.2",
+            "4.3"
+        ],
+        "Warszawa, Powsinska, 31": [
+            "3.6",
+            "3.95",
+            "4.19",
+            "4.3"
+        ],
+        "Warszawa, Sarmacka, 1A/1": [
+            "3.55",
+            "3.68",
+            "4.19",
+            "4.3"
+        ],
+        "Warszawa, aleja Komisji Edukacji Narodowej, 90": [
+            "3.62",
+            "3.645",
+            "4.245",
+            "4.27"
+        ],
+        "Warszawa, Targowa, 72": [
+            "3.625",
+            "3.64",
+            "4.245",
+            "4.255"
+        ],
+        "Warszawa, Jana Pawla II, 82": [
+            "3.625",
+            "3.64",
+            "4.245",
+            "4.255"
+        ],
+        "Warszawa, Woloska, 12": [
+            "3.62",
+            "3.645",
+            "4.235",
+            "4.26"
+        ],
+        "Warszawa, Grochowska, 133": [
+            "3.6",
+            "3.69",
+            "4.22",
+            "4.3"
+        ],
+        "Warszawa, Swietokrzyska, 18": [
+            "3.62",
+            "3.645",
+            "4.245",
+            "4.26"
+        ],
+        "Warszawa, Stawki, 2": [
+            "3.625",
+            "3.645",
+            "4.245",
+            "4.265"
+        ],
+        "Warszawa, Przejscie podz. Al.Jerozolimskie / E.Plater, lok. 116a": [
+            "3.6056",
+            "3.6556",
+            "4.232",
+            "4.272"
+        ],
+        "Warszawa, Swiatowida, 17": [
+            "3.7",
+            "4",
+            "4.19",
+            "4.32"
+        ],
+        "Warszawa, Solec, 81B": [
+            "3.62",
+            "3.64",
+            "4.25",
+            "4.26"
+        ],
+        "Warszawa, Piekna, 11": [
+            "3.61",
+            "3.64",
+            "4.235",
+            "4.265"
+        ],
+        "Warszawa, Powstancow Slaskich, 126": [
+            "3.595",
+            "3.665",
+            "4.225",
+            "4.27"
+        ],
+        "Warszawa, Fieldorfa, 41": [
+            "3.585",
+            "3.67",
+            "4.22",
+            "4.28"
+        ],
+        "Warszawa, Swietokrzyska, 34": [
+            "3.56",
+            "3.675",
+            "4.18",
+            "4.297"
+        ],
+        "Warszawa, Pulawska, 427": [
+            "3.6",
+            "3.67",
+            "4.21",
+            "4.29"
+        ],
+        "Warszawa, Sienkiewicza, 19": [
+            "3.605",
+            "3.67",
+            "4.24",
+            "4.285"
+        ],
+        "Warszawa, Slawoja Skladkowskiego, 4": [
+            "3.58",
+            "3.665",
+            "4.21",
+            "4.28"
+        ],
+        "Warszawa, Warszawska, 3": [
+            "3.59",
+            "3.67",
+            "4.22",
+            "4.285"
+        ],
+        "Warszawa, Gorczewska, 221/226": [
+            "3.6",
+            "4",
+            "4.19",
+            "4.31"
+        ],
+        "Warszawa, Jutrzenki, 156": [
+            "3.605",
+            "3.67",
+            "4.23",
+            "4.29"
+        ],
+        "Warszawa, Grzybowska, 61 lokal 12": [
+            "3.615",
+            "3.645",
+            "4.24",
+            "4.26"
+        ],
+        "Warszawa, Wilcza, 51": [
+            "3.6",
+            "3.64",
+            "4.23",
+            "4.27"
+        ],
+        "Warszawa, Rembielinska, 20": [
+            "3.565",
+            "4",
+            "4.195",
+            "4.3"
+        ],
+        "Warszawa, Al. Jerozolimskie / Al. Jana Pawla II, Przejscie Podziemne, lok 24": [
+            "3.6025",
+            "3.6525",
+            "4.2345",
+            "4.2745"
+        ],
+        "Warszawa, Grochowska, 207": [
+            "3.6025",
+            "3.6525",
+            "4.2345",
+            "4.2745"
+        ],
+        "Warszawa, Al. Solidarnosci, 149": [
+            "3.6025",
+            "3.6525",
+            "4.2345",
+            "4.2745"
+        ],
+        "Warszawa, 1 Sierpnia, 46": [
+            "3.6",
+            "3.66",
+            "4.22",
+            "4.27"
+        ],
+        "Warszawa, Targowa, 59": [
+            "3.598",
+            "3.653",
+            "4.171",
+            "4.27"
+        ],
+        "Warszawa, Przejscie podz. Al. Jerozolimskie / Jana Pawla II, paw. 24 i 140": [
+            "3.58",
+            "3.73",
+            "4.17",
+            "4.31"
+        ],
+        "Warszawa, Targowa, 46, lok.65": [
+            "3.6195",
+            "3.7292",
+            "4.2217",
+            "4.3497"
+        ],
+        "Warszawa, Zurawia, 45": [
+            "3.63",
+            "3.655",
+            "4.245",
+            "4.265"
+        ],
+        "Warszawa, Al. Solidarnosci, 117": [
+            "3.63",
+            "3.655",
+            "4.245",
+            "4.265"
+        ]
+    }
+}
