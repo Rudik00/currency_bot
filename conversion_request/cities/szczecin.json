@@ -1,0 +1,52 @@
+{
+    "szczecin": {
+        "Szczecin, al. Wyzwolenia, 2": [
+            "3.52",
+            "3.68",
+            "4.14",
+            "4.28"
+        ],
+        "Szczecin, Rydla, 50j": [
+            "3.625",
+            "3.67",
+            "4.24",
+            "4.25"
+        ],
+        "Szczecin, al. Papieza Jana Pawla II, 1": [
+            "3.52",
+            "3.68",
+            "4.14",
+            "4.28"
+        ],
+        "Szczecin, Grodzka, 7": [
+            "3.59",
+            "3.69",
+            "4.2",
+            "4.27"
+        ],
+        "Szczecin, Jagiellonska, 1a": [
+            "3.56",
+            "3.66",
+            "4.17",
+            "4.27"
+        ],
+        "Szczecin, Plac Lotnikow, 3B": [
+            "3.59",
+            "3.69",
+            "4.2",
+            "4.27"
+        ],
+        "Szczecin, al. Wojska Polskiego, 7": [
+            "3.56",
+            "3.66",
+            "4.17",
+            "4.27"
+        ],
+        "Szczecin, Edmunda Baluki, 20": [
+            "3.56",
+            "3.66",
+            "4.17",
+            "4.27"
+        ]
+    }
+}

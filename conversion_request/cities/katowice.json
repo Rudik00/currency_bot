@@ -1,0 +1,112 @@
+{
+    "katowice": {
+        "Katowice, Trasa N. i J. Rencow, 30": [
+            "3.56",
+            "3.74",
+            "4.18",
+            "4.35"
+        ],
+        "Katowice, Uniwersytecka, 13": [
+            "3.65",
+            "3.685",
+            "4.25",
+            "4.275"
+        ],
+        "Katowice, Mickiewicza, 22": [
+            "3.616",
+            "3.658",
+            "4.235",
+            "4.268"
+        ],
+        "Katowice, Mickiewicza, 20": [
+            "3.58",
+            "3.68",
+            "4.2",
+            "4.269"
+        ],
+        "Katowice, Generala Zygmunta Waltera-Jankego, 15D": [
+            "3.6",
+            "3.7",
+            "4.2",
+            "4.3"
+        ],
+        "Katowice, Rozdzienskiego, 200": [
+            "3.57",
+            "3.74",
+            "4.18",
+            "4.33"
+        ],
+        "Katowice, Armii Krajowej, 51": [
+            "3.58",
+            "3.72",
+            "4.19",
+            "4.31"
+        ],
+        "Katowice, P. Skargi, 6a": [
+            "3.605",
+            "3.695",
+            "4.2089",
+            "4.2789"
+        ],
+        "Katowice, Plac Marii i Lecha Kaczynskich, 1": [
+            "3.615",
+            "3.669",
+            "4.235",
+            "4.265"
+        ],
+        "Katowice, Chorzowska, 107": [
+            "3.615",
+            "3.669",
+            "4.235",
+            "4.265"
+        ],
+        "Katowice, P. Skargi, 6": [
+            "3.615",
+            "3.669",
+            "4.235",
+            "4.265"
+        ],
+        "Katowice, Mickiewicza, 8": [
+            "3.615",
+            "3.669",
+            "4.235",
+            "4.265"
+        ],
+        "Katowice, Mickiewicza, 6": [
+            "3.615",
+            "3.669",
+            "4.235",
+            "4.265"
+        ],
+        "Katowice, Kosciuszki, 229": [
+            "3.615",
+            "3.669",
+            "4.235",
+            "4.265"
+        ],
+        "Katowice, Stawowa, 10": [
+            "3.6",
+            "3.68",
+            "4.2",
+            "4.27"
+        ],
+        "Katowice, 3 Maja, 3": [
+            "3.638",
+            "3.67",
+            "4.24",
+            "4.265"
+        ],
+        "Katowice, Slowackiego, 27": [
+            "3.61",
+            "3.655",
+            "4.225",
+            "4.258"
+        ],
+        "Katowice, 3 Maja, 15": [
+            "3.625",
+            "3.65",
+            "4.24",
+            "4.253"
+        ]
+    }
+}
