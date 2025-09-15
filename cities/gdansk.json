@@ -1,40 +1,34 @@
 {
     "gdansk": {
-        "Gdansk, Cienista, 30": [
-            "3.58",
-            "3.78",
-            "4.21",
-            "4.3"
-        ],
-        "Gdansk, Targ Sienny, 7": [
+        "Gdansk, Podwale Staromiejskie, 104": [
             "3.62",
+            "3.65",
+            "4.25",
+            "4.27"
+        ],
+        "Gdansk, Grunwaldzka, 92": [
+            "3.6",
             "3.67",
-            "4.245",
-            "4.285"
+            "4.24",
+            "4.31"
         ],
         "Gdansk, Podwale Staromiejskie, 109/112": [
-            "3.61",
-            "3.64",
-            "4.23",
-            "4.26"
+            "3.62",
+            "3.65",
+            "4.25",
+            "4.27"
         ],
-        "Gdansk, Podwale Staromiejskie, 104": [
-            "3.61",
-            "3.64",
-            "4.23",
-            "4.26"
-        ],
-        "Gdansk, al. Grunwaldzka, 92": [
+        "Gdansk, Schuberta, 102a/52D": [
             "3.6",
             "3.67",
-            "4.23",
-            "4.3"
+            "4.24",
+            "4.31"
         ],
-        "Gdansk, Latarniana, 1": [
+        "Gdansk, Zlota Karczma, 26-1": [
             "3.6",
-            "3.65",
-            "4.23",
-            "4.28"
+            "3.67",
+            "4.24",
+            "4.31"
         ],
         "Gdansk, al. Grunwaldzka, 211": [
             "3.6",
@@ -42,11 +36,17 @@
             "4.23",
             "4.28"
         ],
-        "Gdansk, Grunwaldzka, 92": [
-            "3.59",
-            "3.66",
+        "Gdansk, Targ Sienny, 7 lok. 1.03": [
+            "3.6",
+            "3.67",
+            "4.24",
+            "4.31"
+        ],
+        "Gdansk, Latarniana, 1": [
+            "3.6",
+            "3.65",
             "4.23",
-            "4.29"
+            "4.28"
         ],
         "Gdansk, Zwirki i Wigury, 4/8": [
             "3.6",
@@ -54,23 +54,53 @@
             "4.23",
             "4.28"
         ],
-        "Gdansk, Schuberta, 102a/52D": [
-            "3.59",
-            "3.66",
-            "4.23",
+        "Gdansk, Piwna, 67/68": [
+            "3.615",
+            "3.665",
+            "4.24",
             "4.29"
         ],
-        "Gdansk, Zlota Karczma, 26-1": [
-            "3.59",
-            "3.66",
-            "4.23",
-            "4.29"
+        "Gdansk, Dlugie Ogrody, 10": [
+            "3.62",
+            "3.69",
+            "4.245",
+            "4.3"
         ],
-        "Gdansk, Targ Sienny, 7 lok. 1.03": [
-            "3.59",
-            "3.66",
+        "Gdansk, Dlugie Ogrody, 45": [
+            "3.62",
+            "3.69",
+            "4.245",
+            "4.3"
+        ],
+        "Gdansk, Grunwaldzka, 83-85": [
+            "3.61",
+            "3.68",
+            "4.24",
+            "4.31"
+        ],
+        "Gdansk, Trakt Sw. Wojciecha, 149": [
+            "3.58",
+            "3.7",
+            "4.2",
+            "4.32"
+        ],
+        "Gdansk, Grunwaldzka, 141": [
+            "3.61",
+            "3.68",
+            "4.24",
+            "4.31"
+        ],
+        "Gdansk, Kolobrzeska, 41 C": [
+            "3.61",
+            "3.68",
+            "4.24",
+            "4.31"
+        ],
+        "Gdansk, Cienista, 30": [
+            "3.6",
+            "3.8",
             "4.23",
-            "4.29"
+            "4.31"
         ],
         "Gdansk, Plac Dominikanski, 1": [
             "3.62",
@@ -78,59 +108,23 @@
             "4.23",
             "4.25"
         ],
-        "Gdansk, Trakt Sw. Wojciecha, 149": [
-            "3.56",
+        "Gdansk, al. Grunwaldzka, 92": [
+            "3.6",
             "3.68",
-            "4.18",
+            "4.24",
             "4.31"
         ],
-        "Gdansk, ul. Podwale Staromiejskie, 94/95": [
-            "3.6",
-            "3.66",
-            "4.224",
-            "4.274"
+        "Gdansk, Targ Sienny, 7": [
+            "3.635",
+            "3.695",
+            "4.26",
+            "4.32"
         ],
         "Gdansk, Romana Dmowskiego, 21/1": [
-            "3.583",
-            "3.658",
-            "4.218",
-            "4.278"
-        ],
-        "Gdansk, Grunwaldzka, 141": [
-            "3.6",
-            "3.66",
-            "4.22",
-            "4.28"
-        ],
-        "Gdansk, Dlugie Ogrody, 45": [
-            "3.6",
-            "3.63",
-            "4.23",
-            "4.26"
-        ],
-        "Gdansk, Grunwaldzka, 83-85": [
-            "3.6",
-            "3.66",
-            "4.22",
-            "4.28"
-        ],
-        "Gdansk, Dlugie Ogrody, 10": [
-            "3.6",
-            "3.63",
-            "4.23",
-            "4.26"
-        ],
-        "Gdansk, Kolobrzeska, 41 C": [
-            "3.6",
-            "3.66",
-            "4.22",
-            "4.28"
-        ],
-        "Gdansk, Piwna, 67/68": [
-            "3.595",
-            "3.645",
-            "4.225",
-            "4.275"
+            "3.58",
+            "3.68",
+            "4.2",
+            "4.3"
         ]
     }
 }

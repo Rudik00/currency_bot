@@ -1,74 +1,74 @@
 {
     "belostok": {
-        "USD_PL": 3.63,
-        "PL_USD": 3.63,
-        "EUR_PL": 4.25,
-        "PL_EUR": 4.25
-    },
-    "bydgoszcz": {
-        "USD_PL": 3.61,
-        "PL_USD": 3.65,
-        "EUR_PL": 4.23,
+        "USD_PL": 3.635,
+        "PL_USD": 3.64,
+        "EUR_PL": 4.26,
         "PL_EUR": 4.26
     },
+    "bydgoszcz": {
+        "USD_PL": 3.615,
+        "PL_USD": 3.655,
+        "EUR_PL": 4.245,
+        "PL_EUR": 4.275
+    },
     "warszawa": {
-        "USD_PL": 3.7,
-        "PL_USD": 3.63,
-        "EUR_PL": 4.25,
-        "PL_EUR": 4.255
+        "USD_PL": 3.73,
+        "PL_USD": 3.62,
+        "EUR_PL": 4.27,
+        "PL_EUR": 4.265
     },
     "wroclaw": {
         "USD_PL": 3.63,
-        "PL_USD": 3.645,
-        "EUR_PL": 4.24,
+        "PL_USD": 3.65,
+        "EUR_PL": 4.25,
         "PL_EUR": 4.2
     },
     "gdansk": {
-        "USD_PL": 3.62,
-        "PL_USD": 3.63,
-        "EUR_PL": 4.245,
+        "USD_PL": 3.635,
+        "PL_USD": 3.65,
+        "EUR_PL": 4.26,
         "PL_EUR": 4.25
     },
     "rzeszow": {
         "USD_PL": 3.81,
-        "PL_USD": 3.635,
-        "EUR_PL": 4.245,
-        "PL_EUR": 4.25
+        "PL_USD": 3.64,
+        "EUR_PL": 4.255,
+        "PL_EUR": 4.259
     },
     "katowice": {
-        "USD_PL": 3.638,
-        "PL_USD": 3.648,
-        "EUR_PL": 4.25,
+        "USD_PL": 3.64,
+        "PL_USD": 3.65,
+        "EUR_PL": 4.255,
         "PL_EUR": 4.253
     },
     "krakow": {
         "USD_PL": 3.625,
         "PL_USD": 3.63,
-        "EUR_PL": 4.24,
+        "EUR_PL": 4.25,
         "PL_EUR": 4.255
     },
     "lodz": {
-        "USD_PL": 3.62,
-        "PL_USD": 3.64,
-        "EUR_PL": 4.245,
-        "PL_EUR": 4.26
+        "USD_PL": 3.635,
+        "PL_USD": 3.65,
+        "EUR_PL": 4.26,
+        "PL_EUR": 4.275
     },
     "lublin": {
-        "USD_PL": 362.0,
-        "PL_USD": 3.64,
-        "EUR_PL": 423.0,
-        "PL_EUR": 4.25
+        "USD_PL": 363.0,
+        "PL_USD": 3.659,
+        "EUR_PL": 425.5,
+        "PL_EUR": 4.27
     },
     "poznan": {
         "USD_PL": 3.61,
-        "PL_USD": 3.66,
+        "PL_USD": 3.67,
         "EUR_PL": 4.24,
-        "PL_EUR": 4.27
+        "PL_EUR": 4.28
     },
     "szczecin": {
-        "USD_PL": 3.61,
+        "USD_PL": 3.618,
         "PL_USD": 3.66,
-        "EUR_PL": 4.237,
-        "PL_EUR": 4.253
+        "EUR_PL": 4.25,
+        "PL_EUR": 4.265
     }
 }
