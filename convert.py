@@ -3,7 +3,7 @@ import os
 
 
 async def user_amount_conversion(currency, city, amount):
-    filepath = f"/Users/apple/currency_bot/best_rate/best_rate.json"
+    filepath = f"./best_rate/best_rate.json"
     currency = currency.replace(" -> ", "_")
 
     with open(filepath, "r", encoding="utf-8") as f:
