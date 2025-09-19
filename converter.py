@@ -3,7 +3,6 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
 
-
 from convert import user_amount_conversion
 
 
@@ -90,16 +89,14 @@ async def process_amount(message: types.Message, state: FSMContext):
     currency = user_data.get("currency")
     city = user_data.get("city")
 
+    # --------- функция для конвертации --------
+    result, well = await user_amount_conversion(currency, city, amount)
     await message.answer(
         f"📊 Вы выбрали:\n"
         f"Валюта: {currency}\n"
         f"Город: {city}\n"
-        f"Сумма: {amount}"
-    )
-
-    # --------- функция для конвертации --------
-    result, well = await user_amount_conversion(currency, city, amount)
-    await message.answer(f"Перевод по курсу: {well}\nРезультат: {result}")
+        f"Сумма: {amount}\n"
+        f"Перевод по курсу: {well}\nРезультат: {result}")
 
     await state.clear()  # очищаем FSM (новый диалог можно начать заново)
 
