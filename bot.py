@@ -15,10 +15,14 @@ from table_output import table_output_router, show_table_for_city
 import asyncio
 import os
 
-
-router = Router()
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
+
+if not BOT_TOKEN:
+    raise ValueError("❌ BOT_TOKEN не найден. Добавь его в .env или Railway Variables")
+
+router = Router()
+
 
 # Бот с HTML-поддержкой
 bot = Bot(
